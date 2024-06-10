@@ -2595,12 +2595,15 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 				border-radius: 4px;
-				overflow: hidden;
+				overflow: visible;
 			}
 
 				.tiles article > .image img {
 					display: block;
 					width: 100%;
+					max-width: 300px;
+					/* height: 100%;
+					max-height: 300px; */
 				}
 
 				.tiles article > .image:before {
@@ -2696,13 +2699,26 @@ input, select, textarea {
 					width: 100%;
 					max-height: 0;
 					line-height: 1.5;
-					margin-top: 0.35em;
+					margin-top: 0.8em;
 					opacity: 0;
 				}
 
 					.tiles article > a .content > :last-child {
 						margin-bottom: 0;
 					}
+			
+				.tiles article > a .landscape {
+					-moz-transition: max-height 0.5s ease, opacity 0.5s ease;
+					-webkit-transition: max-height 0.5s ease, opacity 0.5s ease;
+					-ms-transition: max-height 0.5s ease, opacity 0.5s ease;
+					transition: max-height 0.5s ease, opacity 0.5s ease;
+					width: 100%;
+					max-height: 0;
+					line-height: 1.5;
+					margin-top: 0.8em;
+					opacity: 0;
+				}
+	
 
 			.tiles article.style1 > .image:before {
 				/* background-color: #f2849e; */

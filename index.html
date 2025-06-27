@@ -53,24 +53,17 @@
 
 	</div>
 
-	<!-- Scripts -->
+	<!-- Template Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/browser.min.js"></script>
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
-	<script src="assets/js/dynamically_load.js"></script>
 
-	<!-- load header and footer content -->
-	<script>
-		fetch("pages/header.html").then(res => res.text()).then(html => {
-			document.getElementById("page-header").innerHTML = html;
-		});
+	<!-- Our scripts -->
+	<script src="assets/js/custom_utils.js"></script>
+	<script src="assets/js/tiles.js"></script>
 
-		fetch("pages/footer.html").then(res => res.text()).then(html => {
-			document.getElementById("footer").innerHTML = html;
-		});
-	</script>
 
 </body>
 

@@ -13,3 +13,19 @@
     object-fit: cover;
     display: block;
 }
+
+.name-display {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.6);
+}
+
+.tiles a:hover .name-display {
+    background-color: transparent;
+}
+
+.tiles a:hover {
+    /* make bigger to match image */
+    transform: scale(1.1);
+}

@@ -31,9 +31,11 @@ function displayPreviews(data) {
                     <img src="${item.imageURL}" alt="${item.imageAltText}" style=" background: 50% 50% no-repeat;">
                 </span>
                 <a href="javascript:goToPage(${index})">
-                    <h2>${item.name}</h2>
-                    <div class="content">
-                        <p>${item.shortDescription}</p>
+                    <div class="name-display">
+                        <h2>${item.name}</h2>
+                        <div class="content">
+                            <p>${item.shortDescription}</p>
+                        </div>
                     </div>
                 </a>
             </article>`);

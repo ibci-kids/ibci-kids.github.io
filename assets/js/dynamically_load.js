@@ -1,5 +1,8 @@
 // run generatePreviews when page is loaded
-document.addEventListener("DOMContentLoaded", () => { generatePreviews(); }
+document.addEventListener("DOMContentLoaded", () => {
+    generatePreviews();
+    generateMenuItems();
+}
 );
 
 function generatePreviews() {
@@ -21,19 +24,47 @@ function displayPreviews(data) {
     }
 
     tiles.innerHTML = '';
+    const htmlArr = [];
     data.forEach((item, index) => {
-        const newHTML = `
+        htmlArr.push(`
             <article>
                 <span class="image">
                     <img src="${item.imageURL}" alt="${item.imageAltText}">
                 </span>
-                <a href="">
+                <a href="javascript:goToPage(${index})">
                     <h2>${item.name}</h2>
                     <div class="content">
                         <p>${item.shortDescription}</p>
                     </div>
                 </a>
-            </article>`;
-        tiles.innerHTML += newHTML;
+            </article>`);
     });
+    tiles.innerHTML = htmlArr.join('');
+}
+
+function generateMenuItems() {
+    const menu = document.querySelector("#menu");
+
+    const htmlArr = [];
+    profiles = JSON.parse(localStorage.getItem("profiles"));
+
+    profiles.forEach((item, index) => {
+        htmlArr.push(`<li><a href="javascript:goToPage(${index})">${item.name}</a>`);
+    });
+
+    menu.innerHTML = `
+    <div claSS="inner">
+        <h2>Menu</h2>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            ${htmlArr.join('')}
+        </ul>
+    </div>
+    `;
+}
+
+function goToPage(index) {
+    // redirect page with index as query parameter
+    console.log("Going to page # " + index);
+    document.location.href = "pages/profile.html?index=" + index;
 }

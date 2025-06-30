@@ -29,3 +29,7 @@
     /* make bigger to match image */
     transform: scale(1.1);
 }
+
+.tiles .content {
+    padding: 10px;
+}

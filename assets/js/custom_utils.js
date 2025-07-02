@@ -12,7 +12,7 @@ function generateMenuItems() {
     profiles = JSON.parse(localStorage.getItem("profiles"));
 
     profiles.forEach((item, index) => {
-        htmlArr.push(`<li><a href="javascript:goToPage(${index})">${item.name}</a>`);
+        htmlArr.push(`<li><a href="javascript:goToPage(${index})">${item.title} ${item.name}</a>`);
     });
 
     menu.innerHTML = `

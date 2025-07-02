@@ -1,0 +1,29 @@
+{
+    "id": 4,
+    "name": "Your name",
+    "title": "Ex. Dr.",
+    "imageURL": "Ignore",
+    "imageAltText": "Describe the image you chose for accesibility",
+    "shortDescription": "Provide a short description of yourself (100 characters)",
+    "labName": "Your lab's name",
+    "affiliations": [
+        "Companies and Universities you are affiliated with",
+        "Separate each affiliation with a comma and new quotations like this"
+    ],
+    "contact": "Your email. Please convert to name (dot) lastname (at) domain.com format to avoid web scraping",
+    "website": "Website URL you would like to link to",
+    "websiteDisplayText": "What you would like the website URL to display as",
+    "socials": [
+        "Any social media you would like to link",
+        "Please separate multiple entries with a comma and new quotation marks"
+    ],
+    "labDescription": "Describe your lab. (500 characters)",
+    "researchInterestKeywords": [
+        "Keywords describing your research interests",
+        "Please separate multiple entries with a comma and new quotation marks"
+    ],
+    "currentResearchTopics": [
+        "Topics you are currently researching",
+        "Please separate multiple entries with a comma and new quotation marks"
+    ]
+}

@@ -92,27 +92,43 @@
     },
     {
         "id": 4,
-        "name": "Tempus",
-        "title": "",
-        "imageURL": "images/pic04.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
+        "name": "Helen Carlson",
+        "title": "Dr.",
+        "imageURL": "images/profilepics/HCarlson_pic.png",
+        "imageAltText": "An image of Dr. Helen Carlson",
+        "shortDescription": "Associate Professor, Department of Pediatrics, Cumming School of Medicine, University of Calgary",
+        "labName": "Carlson Imaging",
         "affiliations": [
-            ""
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary",
+            "Alberta Children's Hospital Research Institute (ACHRI)",
+            "Hotchkiss Brain Institute (HBI)",
+            "International Pediatric Stroke Organization (IPSO)",
+            "Prediction, Prevention and Interventions on Preterm Birth (P3 Cohort)",
+            "Non-invasive Neurostimulation Network (N3)",
+            "CHILD-BRIGHT Strategy for Patient Oriented Research (SPOR) Network",
+            "Campus Alberta Neuroscience (CAN): Imaging Consortium"
         ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
+        "contact": "helen (dot) carlson (at) ahs.ca",
+        "website": "https://www.carlsonimaging.ca",
+        "websiteDisplayText": "Carlson Imaging website",
         "socials": [
-            ""
+            "https://www.linkedin.com/in/helen-carlson-82744514/"
         ],
-        "labDescription": "",
+        "labDescription": "My lab uses multimodal magnetic resonance imaging (MRI), functional near infrared spectroscopy (fNIRS), and electroencephalography (EEG) to investigate neuroplasticity in children with early brain injuries (perinatal/childhood stroke, quadriplegic cerebral palsy, epilepsy, spinal muscular atrophy, preterm birth, traumatic brain injury, chronic pain). We also use personalized neuroimaging techniques to maximise effectiveness of brain stimulation and pediatric brain-computer interfaces (BCIs).",
         "researchInterestKeywords": [
-            ""
+            "Pediatric stroke",
+            "Cerebral Palsy",
+            "Quadriplegia",
+            "Magnetic Resonance Imaging (MRI)",
+            "Near Infrared Spectroscopy (NIRS)",
+            "Electroencephalography (EEG)",
+            "Brain Computer Interfaces (BCIs)",
+            "Cognition and Quality of Life"
         ],
         "currentResearchTopics": [
-            ""
+            "Personalized multimodal neuroimaging",
+            "Normative modelling",
+            "Imaging sensorimotor networks in youth with quadriplegia"
         ]
     },
     {

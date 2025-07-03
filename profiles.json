@@ -30,8 +30,8 @@
         "title": "Dr.",
         "imageURL": "images/profilepics/ekl_profile.jpg",
         "imageAltText": "Image of a white man, early 30s, smiling, short brown hair with a beard, in front of a green plant background",
-        "shortDescription": "Director of Engineering BCI4Kids, Asst Prof. Biomedical Engineering at UofC.",
-        "labName": "BCI4Kids",
+        "shortDescription": "Director of BCI4Kids Engineering, Asst Prof. Biomedical Engineering at UofC.",
+        "labName": "BCI4Kids Engineering, BCI Games Inc.",
         "affiliations": [
             "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, Canada",
             "Department of Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, Canada",
@@ -43,7 +43,7 @@
         "socials": [
             "https://www.linkedin.com/in/eli-kinney-lang/"
         ],
-        "labDescription": "At the BCI4Kids lab in the BME Program, we aim to translate the evolving brain-computer interface space for children. We are focused on the multitude of digital engineering problems facing BCI translation to children: from digital signal processing, machine learning, and analysis of neurophysiological signals, to the development of engaging, exciting applications for children to play with BCI systems.",
+        "labDescription": "At the BCI4Kids Engineering lab in the BME Department, we aim to translate the evolving brain-computer interface space for children. We are focused on the multitude of digital engineering problems facing BCI translation to children: from digital signal processing, machine learning, and analysis of neurophysiological signals, to the development of engaging, exciting applications for children to play with BCI systems.",
         "researchInterestKeywords": [
             "BCI gaming",
             "user-centered design",

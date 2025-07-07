@@ -1,0 +1,35 @@
+.tiles .image {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    max-width: 500px;
+}
+
+.tiles .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.name-display {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.6);
+}
+
+.tiles a:hover .name-display {
+    background-color: transparent;
+}
+
+.tiles a:hover {
+    /* make bigger to match image */
+    transform: scale(1.1);
+}
+
+.tiles .content {
+    padding: 10px;
+}

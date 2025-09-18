@@ -156,180 +156,181 @@
         "currentResearchTopics": [
             "Clinical implementation research", "Patient and family engagement in pediatric research", "Structural and Functional imaging of children and adults with quadriplegic cerebral palsy"
         ]
-    },
-    {
-        "id": 6,
-        "name": "Veroeros",
-        "title": "",
-        "imageURL": "images/pic06.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Ipsum",
-        "title": "",
-        "imageURL": "images/pic07.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Dolor",
-        "title": "",
-        "imageURL": "images/pic08.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Nullam",
-        "title": "",
-        "imageURL": "images/pic09.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Ultricies",
-        "title": "",
-        "imageURL": "images/pic10.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Dictum",
-        "title": "",
-        "imageURL": "images/pic11.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Pretium",
-        "title": "",
-        "imageURL": "images/pic12.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
     }
+    //,
+    // {
+    //     "id": 6,
+    //     "name": "Veroeros",
+    //     "title": "",
+    //     "imageURL": "images/pic06.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 7,
+    //     "name": "Ipsum",
+    //     "title": "",
+    //     "imageURL": "images/pic07.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 8,
+    //     "name": "Dolor",
+    //     "title": "",
+    //     "imageURL": "images/pic08.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 9,
+    //     "name": "Nullam",
+    //     "title": "",
+    //     "imageURL": "images/pic09.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 10,
+    //     "name": "Ultricies",
+    //     "title": "",
+    //     "imageURL": "images/pic10.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 11,
+    //     "name": "Dictum",
+    //     "title": "",
+    //     "imageURL": "images/pic11.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 12,
+    //     "name": "Pretium",
+    //     "title": "",
+    //     "imageURL": "images/pic12.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // }
 ]

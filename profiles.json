@@ -3,25 +3,32 @@
         "id": 1,
         "name": "Adam Kirton",
         "title": "Dr.",
-        "imageURL": "images/profilepics/ak_headshot.jpg",
-        "imageAltText": "A white man, smiling confidently in a crisp black shirt, with MRI images in the background",
-        "shortDescription": "Pediatric Neurologist and director of the BCI4Kids Lab at the Alberta Children's Hospital.",
-        "labName": "BCI4Kids",
+        "imageURL": "images/profilepics/AK_headshot_3.jpg",
+        "imageAltText": "Image of a white man, early 50's, greying brown hair with glasses, smiling",
+        "shortDescription": "Pediatric neurologist, Professor, founder of BCI4kids program",
+        "labName": "BCI4kids",
         "affiliations": [
-            ""
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary",
+            "Alberta Children's Hospital Research Institute"
         ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "BCI4Kids.com",
+        "contact": "adam (dot) kirton (dot) (at) ahs.ca",
+        "website": "https://cumming.ucalgary.ca/research/pediatric-bci/BCI%204%20Kids%20Calgary",
+        "websiteDisplayText": "BCI4kids",
         "socials": [
-            ""
+            "Any social media you would like to link",
+            "Please separate multiple entries with a comma and new quotation marks"
         ],
-        "labDescription": "",
+        "labDescription": "Our goal is to enable new life participation for children with severe neurological disabilities and their families through brain computer interface technologies",
         "researchInterestKeywords": [
-            ""
+            "brain computer interface (BCI)",
+            "cerebral palsy",
+            "patient and family engagement",
+            "developmental neuroplasticity"
         ],
         "currentResearchTopics": [
-            ""
+            "Understanding how young brains develop following early life injury",
+            "Translating personalized brain maps to enable pursuit of individualized goals",
+            "Applying emerging neurotechnologies to enhance life participation for youth with severe disabilities"
         ]
     },
     {
@@ -60,34 +67,29 @@
     },
     {
         "id": 3,
-        "name": "Mariana Branco",
+        "name": "Mariana P Branco",
         "title": "Dr.",
         "imageURL": "images/profilepics/mb_headshot.jpg",
-        "imageAltText": "Image of a white woman smiling, shoulder length brown hair with crossed hands, in front of a railing in a medical building.",
-        "shortDescription": "Asst Prof. UMC Utrecht Brain Center, Dept. of Neurology & Neurosurgery",
-        "labName": "Utrecht BCI Lab, (RIBS)",
+        "imageAltText": "Image of Mariana P Branco smiling. She is a white woman with shoulder length brown hair with crossed hands, in front of a railing in a medical building.",
+        "shortDescription": "AMariana P. Branco is an Assistant Professor at the University Medical Center Utrecht, specializing in neurotechnology and Brain-Computer Interfaces (BCIs). She earned her Ph.D. in Clinical and Experimental Neurosciences at UMC Utrecht, focusing on the clinical translation of implanted BCIs for communication in severe paralysis. Her research explores brain signal decoding, user-centered BCI design, and the feasibility of implanted BCIs for children with complex needs. She has authored over 30 publications, serves as editor for Frontiers in Human Neuroscience and Frontiers for Young Minds, leads a outreach program about the brain for kids, and currently serves as board member of the BCI Society.",
+        "labName": "Utrecht-BCI Lab",
         "affiliations": [
-            "Department of Neurology and Neurosurgery, UMC Utrecht Brain Center, The Netherlands"
+            "Department of Neurology and Neurosurgery, University Medical Center (UMC) Utrecht Brain Center, The Netherlands"
         ],
         "contact": "m (dot) pedrosobranco (at) umcutrecht.nl",
-        "website": "https://www.nick-ramsey.eu/",
-        "websiteDisplayText": "Utrecht BCI Lab",
+        "website": "https://utrecht-bci.nl/mariana-branco",
+        "websiteDisplayText": "Mariana Branco's Personal Webpage",
         "socials": [
-            ""
+            "https://www.linkedin.com/in/mariana-pedroso-branco/"
         ],
-        "labDescription": "At the Utrecht-BCI Lab we aim to understand the relationship between electrical, metabolic and cerebrovascular processes of neuronal populations during normal and abnormal behaviour. In addition, we focus on the development of fully implanted home-use Brain-Computer Interfaces for individuals with communication disabilities.",
+        "labDescription": "At the Utrecht-BCI Lab we study the neuronal mechanisms underlying human brain function in order to understand the relationship between electrical, metabolic, cerebrovascular and neurochemical processes of neuronal populations on the one hand, and normal and abnormal behaviour on the other hand. To that end, we focus both on methodology, application in brain imaging research and on the development of neurotechnology. In particular, we developed implanted Brain-Computer Interfaces to restore communication in severely paralyzed individuals, with a focus on clinical impact and home-use.",
         "researchInterestKeywords": [
-            "sensorimotor cortex",
-            "fMRI imaging",
-            "intracranial signals (ECoG and sEEG)",
-            "communication BCIs",
-            "developments",
-            "children and adults"
+             "Electrophysiology", "Electrocorticography", "Implanted BCIs", "Neurotechnology", "Pediatrics", "User-centered design"
         ],
         "currentResearchTopics": [
-            "Imaging brains of children and adults with quadriplegic cerebral palsy (qCP)",
+            "Implanted BCIs for children with complex needs",
             "Identification of needs and interest in BCIs for Cerebral Palsy using user-centered design",
-            "Development of BCIs that work 24/7"
+            "Decoding hand movement from sensorimotor cortex"
         ]
     },
     {
@@ -133,202 +135,202 @@
     },
     {
         "id": 5,
-        "name": "Aliquam",
+        "name": "Nicole Romanow",
         "title": "",
-        "imageURL": "images/pic05.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
+        "imageURL": "Ignore",
+        "imageAltText": "Image of a white woman with short hair wearing a pink shirt",
+        "shortDescription": "Program Manager, Calgary Pediatric Stroke Program and BCI4Kids",
+        "labName": "BCI4Kids",
         "affiliations": [
-            ""
+            "Department of Pediatrics, University of Calgary", "Alberta Children's Hospital Research Institute"
         ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
+        "contact": "ntr(dot)romanow (at) ucalgary.ca", 
+        "website": "https://cumming.ucalgary.ca/research/pediatric-bci/BCI%204%20Kids%20Calgary",
+        "websiteDisplayText": "BCI4Kids.com",
+        "socials": [""
         ],
-        "labDescription": "",
+        "labDescription": "At BCI4Kids, we provide children with severe neurological disabilities access to cutting-edge brain-computer interface (BCI) technology to help them achieve greater independence, realize new participation in life, and do things they never thought possible. Our vision is to build and grow a child- and family-centered program to bring BCI technology out of the research laboratory and into the lives of people and children in need.",
         "researchInterestKeywords": [
-            ""
+            "Pediatric BCI", "Patient engagement", "Pediatric clinical research", "Neurotechnology"
         ],
         "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Veroeros",
-        "title": "",
-        "imageURL": "images/pic06.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Ipsum",
-        "title": "",
-        "imageURL": "images/pic07.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Dolor",
-        "title": "",
-        "imageURL": "images/pic08.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Nullam",
-        "title": "",
-        "imageURL": "images/pic09.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Ultricies",
-        "title": "",
-        "imageURL": "images/pic10.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Dictum",
-        "title": "",
-        "imageURL": "images/pic11.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Pretium",
-        "title": "",
-        "imageURL": "images/pic12.jpg",
-        "imageAltText": "",
-        "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
-        "labName": "",
-        "affiliations": [
-            ""
-        ],
-        "contact": "",
-        "website": "",
-        "websiteDisplayText": "",
-        "socials": [
-            ""
-        ],
-        "labDescription": "",
-        "researchInterestKeywords": [
-            ""
-        ],
-        "currentResearchTopics": [
-            ""
+            "Clinical implementation research", "Patient and family engagement in pediatric research", "Structural and Functional imaging of children and adults with quadriplegic cerebral palsy"
         ]
     }
+    //,
+    // {
+    //     "id": 6,
+    //     "name": "Veroeros",
+    //     "title": "",
+    //     "imageURL": "images/pic06.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 7,
+    //     "name": "Ipsum",
+    //     "title": "",
+    //     "imageURL": "images/pic07.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 8,
+    //     "name": "Dolor",
+    //     "title": "",
+    //     "imageURL": "images/pic08.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 9,
+    //     "name": "Nullam",
+    //     "title": "",
+    //     "imageURL": "images/pic09.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 10,
+    //     "name": "Ultricies",
+    //     "title": "",
+    //     "imageURL": "images/pic10.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 11,
+    //     "name": "Dictum",
+    //     "title": "",
+    //     "imageURL": "images/pic11.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "id": 12,
+    //     "name": "Pretium",
+    //     "title": "",
+    //     "imageURL": "images/pic12.jpg",
+    //     "imageAltText": "",
+    //     "shortDescription": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+    //     "labName": "",
+    //     "affiliations": [
+    //         ""
+    //     ],
+    //     "contact": "",
+    //     "website": "",
+    //     "websiteDisplayText": "",
+    //     "socials": [
+    //         ""
+    //     ],
+    //     "labDescription": "",
+    //     "researchInterestKeywords": [
+    //         ""
+    //     ],
+    //     "currentResearchTopics": [
+    //         ""
+    //     ]
+    // }
 ]

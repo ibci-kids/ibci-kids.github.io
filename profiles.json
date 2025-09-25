@@ -156,5 +156,38 @@
         "currentResearchTopics": [
             "Clinical implementation research", "Patient and family engagement in pediatric research", "Structural and Functional imaging of children and adults with quadriplegic cerebral palsy"
         ]
+    },
+    {
+        "id": 6,
+        "name": "Mariska Vansteensel",
+        "title": "Dr.",
+        "imageURL": "images/profilepics/mvs_photo.png",
+        "imageAltText": "White woman, in her late fourties, long brown hair, black glasses, pink shirt, black jacket",
+        "shortDescription": "Associate Professor in Brain-Computer Interface research",
+        "labName": "Utrecht-BCI",
+        "affiliations": [
+            "UMC Utrecht Brain Center",
+            "Department of Neurosurgery"
+        ],
+        "contact": "m (dot) j (dot) vansteensel (at) umcutrecht.nl",
+        "website": "www.utrecht-bci.nl",
+        "websiteDisplayText": "Utrecht-BCI Lab",
+        "socials": [
+            "https://www.linkedin.com/in/mariska-van-steensel-07707710/"
+        ],
+        "labDescription": "At the Utrecht-BCI Lab we study the neuronal mechanisms underlying human brain function in order to understand the relationship between electrical, metabolic, cerebrovascular and neurochemical processes of neuronal populations on the one hand, and normal and abnormal behaviour on the other hand. To that end, we focus both on methodology, application in brain imaging research and on the development of neurotechnology. In particular, we developed implanted Brain-Computer Interfaces to restore communication in severely paralyzed individuals, with a focus on clinical impact and home-use.",
+        "researchInterestKeywords": [
+            "Electrophysiology", "Electrocorticography", "Implanted BCIs", "Neurotechnology", "Pediatrics", "User-centered design"
+        ],
+        "currentResearchTopics": [
+            "Implanted Brain-Computer Interfaces",
+            "Communication",
+            "Computer Control",
+            "Clinical Translation",
+            "Supportive and Prohibitive Factors for BCI performance",
+            "User Centered Design",
+            "Clinical Outcome Assessment",
+            "Ethics"	
+        ]
     }
 ]

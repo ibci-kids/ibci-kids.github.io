@@ -71,7 +71,7 @@
         "title": "Dr.",
         "imageURL": "images/profilepics/mb_headshot.jpg",
         "imageAltText": "Image of Mariana P Branco smiling. She is a white woman with shoulder length brown hair with crossed hands, in front of a railing in a medical building.",
-        "shortDescription": "AMariana P. Branco is an Assistant Professor at the University Medical Center Utrecht, specializing in neurotechnology and Brain-Computer Interfaces (BCIs). She earned her Ph.D. in Clinical and Experimental Neurosciences at UMC Utrecht, focusing on the clinical translation of implanted BCIs for communication in severe paralysis. Her research explores brain signal decoding, user-centered BCI design, and the feasibility of implanted BCIs for children with complex needs. She has authored over 30 publications, serves as editor for Frontiers in Human Neuroscience and Frontiers for Young Minds, leads a outreach program about the brain for kids, and currently serves as board member of the BCI Society.",
+        "shortDescription": "Assistant Professor at the Utrecht-BCI Lab, UMC Utrecht.", 
         "labName": "Utrecht-BCI Lab",
         "affiliations": [
             "Department of Neurology and Neurosurgery, University Medical Center (UMC) Utrecht Brain Center, The Netherlands"
@@ -163,7 +163,7 @@
         "title": "Dr.",
         "imageURL": "images/profilepics/mvs_photo.png",
         "imageAltText": "White woman, in her late fourties, long brown hair, black glasses, pink shirt, black jacket",
-        "shortDescription": "Associate Professor in Brain-Computer Interface research",
+        "shortDescription": "Associate Professor in Brain-Computer Interface Research, Utrecht-BCI Lab",
         "labName": "Utrecht-BCI",
         "affiliations": [
             "UMC Utrecht Brain Center",
